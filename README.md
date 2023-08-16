@@ -1,4 +1,7 @@
 # Comparative-Analysis-on-Electricity-Consumption-trend-in-India
+<div align="center">
+  <img src="https://github.com/Harshita-b/Comparative-Analysis-on-Electricity-Consumption-trend-in-India/blob/main/electricity%20consumption.jpg" alt="Image Alt Text" width="500">
+</div>
 
 ## Overview
 This project aims to comprehensively explore and analyze electricity consumption patterns in India. It investigates various factors influencing electricity usage, regional disparities, and future consumption forecasts. By understanding these factors, we can manage demand, promote sustainable practices, and assess the effectiveness of policy reforms, renewable energy initiatives, and rural electrification efforts.
@@ -12,4 +15,3 @@ The project employs the Autoregressive Integrated Moving Averages (ARIMA) model 
 ## Evaluation and Interpretation
 The forecasted results were compared with the actual data to assess the accuracy of the models. Metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and forecast error were calculated to quantify the model's performance. The interpretation of the forecasted results was done in the context of regional trends, seasonality, and the influence of exogenous variables.
 
-## 
